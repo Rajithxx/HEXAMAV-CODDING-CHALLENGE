@@ -83,7 +83,7 @@ VALUES
 (16, 16, '2025-03-21', '2025-03-29', 'Daily'),
 (17, 17, '2025-03-24', '2025-03-31', 'Daily'),
 (18, 18, '2025-03-25', '2025-04-12', 'Monthly');
-
+--Extra data
 DECLARE @customerID INT = 11;
 SELECT L.leaseID, V.make, V.model, L.startDate, L.endDate, L.leaseType
 FROM CarRental.Lease L
