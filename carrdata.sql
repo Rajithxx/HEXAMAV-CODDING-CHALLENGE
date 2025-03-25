@@ -75,6 +75,8 @@ VALUES
 ('Noah', 'King', 'noah.k@example.com', '555-700-7000'),
 ('Olivia', 'Hall', 'olivia.h@example.com', '555-800-8000');
 
+--ADDED EXTRA DATA FOR SOME OF THE QUERIES
+
 
 
 
