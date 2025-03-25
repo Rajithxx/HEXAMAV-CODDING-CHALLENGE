@@ -1,5 +1,6 @@
 # HEXAMAV-CODDING-CHALLENGE
-1.
+1. Update the Daily Rate for a Mercedes Car to 68
+
 
 ![image](https://github.com/user-attachments/assets/6fc9b811-59e7-470c-9f93-23130281353b)
 
